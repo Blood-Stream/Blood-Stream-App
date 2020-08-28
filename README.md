@@ -88,7 +88,7 @@ products of the highest possible value.
 Scrum itself is a simple framework for effective team collaboration 
 on complex products.  Scrum co-creators Ken Schwaber and Jeff 
 Sutherland have written The Scrum Guide to explain Scrum clearly and 
-succinctly. This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
+succinctly. This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together. (Organization, 2020)
 
 ---
 
