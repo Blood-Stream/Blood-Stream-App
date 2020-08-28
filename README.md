@@ -1,7 +1,5 @@
 # Blood-Stream
 
-Cohort 6
-
 # Team
 
 **Scrum-master:** Lina Castro
@@ -20,8 +18,6 @@ Cohort 6
 
 **Email:** [sebastian.andres.rivera2012@gmail.com](mailto:sebastian.andres.rivera2012@gmail.com)
 
----
-
 ## Back-end
 
 **Develop-team:** Stiven Mostquera
@@ -32,29 +28,31 @@ Cohort 6
 
 **Email:** [ingecarlos.gutierrez@gmail.com](mailto:linacastrodev@gmail.com)
 
----
-
 ## Data Science
 
 **Develop-team:** Xavier Carrera
 
 **Email:** [xavier.carrera1990@gmail.com](mailto:xavier.carrera1990@gmail.com)
 
-**Develop-team:** Alberto Vargas
+**Develop-team:** Alberto Ortiz
 
 **Email:** [alberto.ortiz.vargas@gmail.com](mailto:linacastrodev@gmail.com)
 
 ---
 
-# Project Description
-
-Blood-Stream is a project that is carried out so that you can perform the analysis and prediction of video games. In addition, the site must generate a data-based video game recommendation.
+---
 
 ![Blood-Stream%205d348c1014644715b9198a42d737b9d4/45233025_303.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/45233025_303.jpg)
 
+# Project Description  ——————
+
+**Blood-Stream** is a project that is carried out so that you can perform
+the analysis and prediction of video games. In addition, the site must 
+generate a data-based video game recommendation.
+
 ---
 
-# Technologies Used
+# Technologies Used ————
 
 Stack **MERN** with **Python**
 
@@ -80,21 +78,30 @@ Python [https://www.python.org/](https://www.python.org/)
 
 ---
 
-# Scrum Methodology
-
-Scrum is simple. It is the opposite of a big collection of interwoven mandatory components. Scrum is not a methodology. Scrum implements the scientific method of empiricism. Scrum replaces a programmed algorithmic approach with a heuristic one, with respect for people and self-organization to deal with unpredictability and solving complex problems. The below graphic represents Scrum in Action as described by Ken Schwaber and Jeff Sutherland in their book Software in 30 Days taking us from planning through software delivery.  (Organization, 2020)
-
 ![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Scrum.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Scrum.jpg)
 
-## Daily meetings:
+# Scrum Methodology —————
 
-- **Start:** August 26th, 2020
-- Duration**:** 15 minutes
-- **End:** November 27th, 2020
+Scrum is a framework within which people can address complex 
+adaptive problems, while productively and creatively delivering 
+products of the highest possible value.
+Scrum itself is a simple framework for effective team collaboration 
+on complex products.  Scrum co-creators Ken Schwaber and Jeff 
+Sutherland have written The Scrum Guide to explain Scrum clearly and 
+succinctly. This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
 
 ---
 
-# Functional Requirements
+# Daily meetings:
+
+> **Start:** August 26th, 2020
+**Duration:** 15 minutes
+**Schedule:** 19:00 hrs.
+**End:** November 27th, 2020
+
+---
+
+# Functional Requirements  ——————————
 
 - Select a profile as a user and according to my preferences it presents possible games for me.
 - Register in the application with social networks (Facebook / Twitter / GitHub / Google).
@@ -106,7 +113,7 @@ Scrum is simple. It is the opposite of a big collection of interwoven mandatory 
 - Use the information to create an algorithm that can recommend games according to your tastes for me.
 - System of sharing the most popular games or recommendations for me.
 
-# Non-Functional Requirements
+# Non Functional Requirements ———————
 
 - Have a machine that physically and internally works well and where you can Install the necessary software to make the code.
 - The project must be carried out in a group, that is, we have a period of 30 days to finish the project.
@@ -116,9 +123,13 @@ Scrum is simple. It is the opposite of a big collection of interwoven mandatory 
 
 ---
 
-# Software Architecture
+# Software Architecture ——————————
 
 ## Application
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Application_Use_Case.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Application_Use_Case.jpg)
+
+Application Use Case Diagram
 
 ![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Application_Sequence.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Application_Sequence.jpg)
 
@@ -126,26 +137,54 @@ Application Sequence diagram
 
 ![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Flow_Chart_Dna_game_app.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Flow_Chart_Dna_game_app.jpg)
 
-Project Flow Chart
+Application Flow Chart
 
-## Front-end
+---
 
-## Back-end
+## Frontend
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Front_end_casos_de_uso.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Front_end_casos_de_uso.jpg)
+
+Frontend Use Case Diagram
+
+---
+
+## Backend
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backend_Use_Case.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backend_Use_Case.jpg)
+
+Backend Use Case Diagram
 
 ![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backend_Sequence.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backend_Sequence.jpg)
 
 Backend Application Sequence diagram
 
-## Data Science
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backen_Flow_Chart.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/Backen_Flow_Chart.jpg)
 
-## Data Base
-
-![Blood-Stream%205d348c1014644715b9198a42d737b9d4/model_diagram.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/model_diagram.jpg)
-
-JSON Model Diagram
+Backend Flow Chart
 
 ---
 
-# References
+## Data Science
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/DS_Bloodstream_Algorithm_1.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/DS_Bloodstream_Algorithm_1.jpg)
+
+Data Science Flow Chart
+
+---
+
+## Data Bases
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/JSON.png](Blood-Stream%205d348c1014644715b9198a42d737b9d4/JSON.png)
+
+JSON Model Diagram
+
+![Blood-Stream%205d348c1014644715b9198a42d737b9d4/DATABASE.jpg](Blood-Stream%205d348c1014644715b9198a42d737b9d4/DATABASE.jpg)
+
+Table Model Diagram
+
+---
+
+# References ——————————
 
 - Organization, S. (2020). WHAT IS SCRUM? get from [scrum.org](http://scrum.org/): [https://www.scrum.org/resources/what-is-scrum](https://www.scrum.org/resources/what-is-scrum)
